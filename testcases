@@ -1,0 +1,8 @@
+localhost:8088 RussellW:password1
+localhost:8088/computer.png RussellW:password1
+localhost:8088/simplepage.html RussellW:password1
+localhost:8088/clouds.jpg RussellW:password1
+localhost:8088/file1.txt RussellW:password1
+localhost:8088/pdf-sample.pdf RussellW:password1
+localhost:8088/index.html wrong:pwd
+localhost:8088/wrongpage.html RussellW:password1
